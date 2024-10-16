@@ -1,0 +1,19 @@
+API_KEY: "ENTER-TOMORROW-API-KEY-HERE"
+SERVER: "127.0.0.1"
+PORT: 1433
+DATABASE: "Method-Dummy"
+USERNAME: "root"
+PASSWORD: "radika123"
+
+RESTART_SCRIPT: "src/restartDB.sql"
+
+WEATHER_PATH: "data/weather/tomorrow.csv"
+WEATHER_HISTORICAL_PATH: "data/weather/weather_historical.csv"
+WEATHER_TABLE: "Weather"
+
+PROJECT_COUNT: 30
+PROJECT_START_DATE: "2019-01-01"
+
+DATA_DIR: "data"
+
+SIMULATION_SOURCE: "csv"
